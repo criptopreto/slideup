@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "root",
+    "password": "ANk!550v",
+    "database": "slideup",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "eayhwpjgmdqbsn",
+    "password": "759d464803d58882a9f337271100ac41436d1d131ffcee4f92de464f11782690",
+    "database": "dleultmko4k05",
+    "host": "ec2-174-129-227-146.compute-1.amazonaws.com",
+    "port": "5432",
+    "uri": "postgres://eayhwpjgmdqbsn:759d464803d58882a9f337271100ac41436d1d131ffcee4f92de464f11782690@ec2-174-129-227-146.compute-1.amazonaws.com:5432/dleultmko4k05",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
